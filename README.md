@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 - My name is Andrea Largosta</h1>
+<h1 align="center">hey there 👋 - I'm Andrea Largosta</h1>
 
 ###
 
